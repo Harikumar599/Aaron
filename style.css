@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header
+{
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(photos/banner1.jpg);
+   
+}
+.copyright
+{
+	width: 100%;
+	text-align: center;
+	padding: 25px 0;
+	background: #262626;
+	font-weight: 300;
+	margin-top: 20px;
+}
+.copyright .a
+{
+	color: #ff004f;
+}
